@@ -18,3 +18,10 @@ This project was designed to run seamlessly in Google Colab.
 1. Clone this repository:
    ```bash
    git clone [https://github.com/sudarshanptl644/YOLO26-Real-Time-Object-Detection.git](https://github.com/sudarshanptl644/YOLO26-Real-Time-Object-Detection.git)
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Run the Jupyter Notebook (.ipynb) cells sequentially to launch the Gradio tunnel.
+
+## 🎓 Academic Context
+This project was developed as a 6th-semester Computer Engineering project, demonstrating proficiency in Deep Learning integration, Web API development, and Python-based video encoding.
