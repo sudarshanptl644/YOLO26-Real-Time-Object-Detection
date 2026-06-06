@@ -10,11 +10,11 @@ A high-performance, web-based object detection hub utilizing the state-of-the-ar
 * **NMS-Free Inference:** Utilizes one-to-one matching to eliminate post-processing bottlenecks, achieving rapid FPS on T4 GPUs.
 * **JavaScript-Python Bridge:** Custom-built local webcam streaming that bypasses cloud-hosted hardware limitations.
 * **Unified UI:** A Gradio-powered dashboard supporting static images, recorded video files (H.264 encoded), and live streams.
-* **Dynamic Tuning:** Real-time confidence threshold adjustment to handle environmental noise.
+* **Dynamic Tuning:** Real-time confidence threshold adjustment to handle environmental noise during live testing.
 
 ## 🛠️ Installation & Usage
 This project was designed to run seamlessly in Google Colab. 
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/sudarshanptl644/YOLO26-Real-Time-Dashboard.git](https://github.com/sudarshanptl644/YOLO26-Real-Time-Dashboard.git)
+   git clone [https://github.com/sudarshanptl644/YOLO26-Real-Time-Object-Detection.git](https://github.com/sudarshanptl644/YOLO26-Real-Time-Object-Detection.git)
