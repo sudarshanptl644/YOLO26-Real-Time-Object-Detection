@@ -1,0 +1,10 @@
+# Core Machine Learning
+ultralytics==8.1.0 # (Or whatever specific version YOLO26 uses)
+opencv-python-headless
+numpy
+Pillow
+
+# Web UI and Video Processing
+gradio
+moviepy
+imageio-ffmpeg
